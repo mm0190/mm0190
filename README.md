@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Blood Bank Management System.
+- 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m currently learning Analytical Tools.
 - 👯 I’m looking to collaborate on Frontend and ML related Projects
 - 🤔 I’m looking for help with Collabartion
